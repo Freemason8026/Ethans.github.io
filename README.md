@@ -1,4 +1,4 @@
-# A page built from Jekyll's blog
+# The project forked by jekyll-now.
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
